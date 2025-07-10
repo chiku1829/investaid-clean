@@ -35,7 +35,7 @@ const DarkFooter = () => {
         <div>
           <h4 className="text-xl font-semibold mb-4 text-purple-500">Get In Touch</h4>
           <p className="text-sm text-gray-300">📧 liquidbackoffice@gmail.com</p>
-          <p className="text-sm text-gray-300 mt-1">📞 +91 98765 43210</p>
+          <p className="text-sm text-gray-300 mt-1">📞 +91 7368079633</p>
         </div>
 
         {/* Social Links */}
